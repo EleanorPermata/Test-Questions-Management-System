@@ -1,0 +1,33 @@
+Name: Mary Smith
+Address: Bukit Jalil, Kuala Lumpur
+Contact Number: 601231024356
+Date of Birth (dd/mm/yyyy): 15/05/1995
+E-mail Address: marysmith@gmail.com
+Age: 28
+Citizenship: Malaysia
+ID Number: 564839
+Username: MarySmith
+Password: Mary1505
+
+Name: Peter Green
+Address: Sri Petaling, Kuala Lumpur
+Contact Number: 601456782341
+Date of Birth (dd/mm/yyyy): 20/08/1997
+E-mail Address: petergreen@yahoo.com
+Age: 26
+Citizenship: India
+ID Number: 786045
+Username: Peter
+Password: Peter2008
+
+Name: Grace Williams
+Address: Bukit Bintang, Kuala Lumpur City Centre
+Contact Number: 601367854328
+Date of Birth (dd/mm/yyyy): 12/02/1994
+E-mail Address: gracewilliams@hotmail.com
+Age: 29
+Citizenship: Australia
+ID Number: 654900
+Username: Grace
+Password: Grace1202
+
