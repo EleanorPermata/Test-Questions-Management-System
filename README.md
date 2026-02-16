@@ -3,7 +3,7 @@ This repository contains the source code and data files for a **Python-based Tes
 
 ## ❗Overview
 
-The TQMS is a terminal-based system that allows academic admins, lecturers, and exam unit personnel to manage user accounts, questions, and exam papers efficiently. The system emphasizes modular programming, file-based data storage, and user-specific role functionality.
+The TQMS is a terminal-based academic system that allows admins, lecturers, and exam unit personnel to create and manage user accounts, questions, and exam papers efficiently. 
 
 ## ❓How to Run
 1. Download all the files in repository.
