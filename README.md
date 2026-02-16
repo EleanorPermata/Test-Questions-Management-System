@@ -7,9 +7,6 @@ Asia Pacific University
 
 The Test Question Management System (TQMS) is a terminal-based academic management application developed using Python. The system enables structured management of user accounts, subjects, question banks, and exam paper generation through role-based access control.
 
-This project demonstrates practical implementation of Python fundamentals including file handling, modular programming, input validation, and logical system design.
-
-
 ## 🎯 Key Features
 
 ### 🔐 Role-Based Authentication
