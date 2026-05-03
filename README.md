@@ -1,6 +1,6 @@
 # Test Question Management System (TQMS)
 
-Programming with Python (102023-MAL)
+Programming with Python
 Asia Pacific University  
 
 ## 📌 Overview
@@ -92,12 +92,4 @@ python Test_Question_Management_System_Final.py
 - Develop graphical user interface  
 - Add search and filtering capabilities  
 - Implement reporting features  
-
-
-## 👥 Contributors
-
-- Eleanor Permata Fry (TP072606)
-- Eshaal Irshad (TP077658) 
-- Honoka Oi (TP074913)
-- Shuhd Fadhl Hussein Ghaleb (TP076842)
 
